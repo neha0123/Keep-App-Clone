@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Keep-App-Clone/static/css/main.37655cbd.chunk.css",
+    "main.js": "/Keep-App-Clone/static/js/main.e36e8c4c.chunk.js",
+    "main.js.map": "/Keep-App-Clone/static/js/main.e36e8c4c.chunk.js.map",
+    "runtime-main.js": "/Keep-App-Clone/static/js/runtime-main.63855ca9.js",
+    "runtime-main.js.map": "/Keep-App-Clone/static/js/runtime-main.63855ca9.js.map",
+    "static/js/2.5c83fec9.chunk.js": "/Keep-App-Clone/static/js/2.5c83fec9.chunk.js",
+    "static/js/2.5c83fec9.chunk.js.map": "/Keep-App-Clone/static/js/2.5c83fec9.chunk.js.map",
+    "index.html": "/Keep-App-Clone/index.html",
+    "static/css/main.37655cbd.chunk.css.map": "/Keep-App-Clone/static/css/main.37655cbd.chunk.css.map",
+    "static/js/2.5c83fec9.chunk.js.LICENSE.txt": "/Keep-App-Clone/static/js/2.5c83fec9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63855ca9.js",
+    "static/js/2.5c83fec9.chunk.js",
+    "static/css/main.37655cbd.chunk.css",
+    "static/js/main.e36e8c4c.chunk.js"
+  ]
+}
